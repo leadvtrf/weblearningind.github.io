@@ -318,7 +318,7 @@ h6 {
 }
 
 .mobile-nav-toggle.bi-x {
-  color: #008374;
+  color: red;
 }
 
 @media (max-width: 991px) {
