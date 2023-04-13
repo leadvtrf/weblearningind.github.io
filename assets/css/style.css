@@ -309,7 +309,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: forestgreen;
+  color: #fff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -318,7 +318,7 @@ h6 {
 }
 
 .mobile-nav-toggle.bi-x {
-  color: red;
+  color: #fff;
 }
 
 @media (max-width: 991px) {
